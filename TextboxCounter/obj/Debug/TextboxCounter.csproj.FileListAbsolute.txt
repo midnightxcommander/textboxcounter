@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TextboxCounter\bin\Debug\TextboxCounter.exe.config
+C:\Users\User\source\repos\TextboxCounter\bin\Debug\TextboxCounter.exe
+C:\Users\User\source\repos\TextboxCounter\bin\Debug\TextboxCounter.pdb
+C:\Users\User\source\repos\TextboxCounter\obj\Debug\TextboxCounter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TextboxCounter\obj\Debug\TextboxCounter.Form1.resources
+C:\Users\User\source\repos\TextboxCounter\obj\Debug\TextboxCounter.Properties.Resources.resources
+C:\Users\User\source\repos\TextboxCounter\obj\Debug\TextboxCounter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TextboxCounter\obj\Debug\TextboxCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextboxCounter\obj\Debug\TextboxCounter.exe
+C:\Users\User\source\repos\TextboxCounter\obj\Debug\TextboxCounter.pdb
